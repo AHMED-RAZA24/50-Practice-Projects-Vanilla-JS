@@ -1,4 +1,4 @@
-# 🌿 50 JavaScript Projects
+ # 🌿 50 JavaScript Projects
 
 Welcome to 50 JavaScript Mini Projects. This repo is here to help you keep moving forward, one small project at a time. You do not have to finish everything in one go. The idea is simple. Pick a project, sit down for a while, write some code, and learn something new. Small progress adds up fast.
 
